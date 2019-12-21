@@ -1,0 +1,21 @@
+*{
+    color: rgb(0, 255, 0);;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../images/splatoon_background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: visible;
+}
+
+.button-styler{
+    background-color: rgb(0, 255, 0);
+    color: white;
+}
+
+.quiz-container{
+    background-color: rgb(255, 20, 147);
+}
