@@ -85,7 +85,7 @@ function secondQuestionResult(answer){
 
 function secondQuestion(){
     document.querySelector('.current-question-number').innerHTML = "2/5";
-    document.querySelector('.current-question').innerHTML = "How did Jupp come to live alongisde inklings?";
+    document.querySelector('.current-question').innerHTML = "How did Judd come to live alongisde inklings?";
     document.querySelector('.current-question').style.color = 'rgb(0,255,0)';
     var inputArea = document.querySelector('.input-area');
     inputArea.removeChild(document.querySelector('.next-question'));
